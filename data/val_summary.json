@@ -1,0 +1,15 @@
+{
+  "split": "val",
+  "total_number_groups": 60,
+  "total_images": 240,
+  "stage_distribution": {
+    "stage_1": 60,
+    "stage_2": 60,
+    "stage_3": 60,
+    "stage_4": 60
+  },
+  "group_size_distribution": {
+    "4": 60
+  },
+  "groups": {}
+}

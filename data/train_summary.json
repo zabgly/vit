@@ -1,0 +1,15 @@
+{
+  "split": "train",
+  "total_number_groups": 240,
+  "total_images": 960,
+  "stage_distribution": {
+    "stage_1": 240,
+    "stage_2": 240,
+    "stage_3": 240,
+    "stage_4": 240
+  },
+  "group_size_distribution": {
+    "4": 240
+  },
+  "groups": {}
+}
